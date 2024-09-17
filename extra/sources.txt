@@ -1,0 +1,23 @@
+Classes:
+
+	Canvas, Image and Manager - https://fridle.kst.fri.uniza.sk/mod/resource/view.php?id=854
+	Sound - https://www.geeksforgeeks.org/play-audio-file-using-java/
+
+Textures:
+
+	Character and Enemy - https://www.deviantart.com/justcre8ive22/art/RPG-Maker-MV-Characters-The-Legend-of-Zelda-602644018
+	Rock - https://www.canstockphoto.com/rock-stone-game-art-rocks-cartoon-72646582.html
+	Fireplace - https://tenor.com/view/camp-smp-gif-22288298
+	Heart - https://www.pngitem.com/middle/hmibbwx_pink-pixel-heart-png-transparent-png/
+	Upgrade - https://www.pngegg.com/en/png-fkwqg
+	Map and Doors - https://store.steampowered.com/app/250900/The_Binding_of_Isaac_Rebirth/
+	Bottle (unused) - https://www.nicepng.com/ourpic/u2y3a9a9u2e6y3q8_potion-pixel-art-pepsi-logo/
+	Button - https://www.seekpng.com/ipng/u2e6t4y3u2q8w7w7_preview-medieval-gui-png/
+	Menu (Background) - https://www.newgrounds.com/art/view/baukjespirit/pixel-castle-landscape
+	Menu (Title) - https://cooltext.com/Logo-Design-Fantasy
+	Scroll - https://www.pngwing.com/en/free-png-yazqw/download
+	Death Screen (Background) - https://www.pikpng.com/transpng/ihRxwom/#google_vignette
+	Font - https://www.dafont.com/mephisto.font
+
+Sounds:
+	Music and SFX - https://store.steampowered.com/app/11450/Overlord/
